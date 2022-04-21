@@ -23,5 +23,12 @@
  * ---------------------
  * 1 node mongodb CRUD > Fundamentals
  * 2 create async run function
- * 
+ * -------------------------------
+ * Integrate sending data form client to server
+ * -------------------------------
+ * 1 Client side: create form
+ * 2 on submit get form data and create user object
+ * 3 on server : create user post method to receive data on the backend
+ * 4 on client side:set fetch with Post , headers, body
+ * 5 make sure you return a json from the post api
  */
